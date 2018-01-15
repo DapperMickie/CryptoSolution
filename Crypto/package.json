@@ -1,0 +1,15 @@
+{
+  "name": "crypto",
+  "version": "0.0.0",
+  "description": "Crypto",
+  "main": "app.js",
+  "author": {
+    "name": "ruste",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
