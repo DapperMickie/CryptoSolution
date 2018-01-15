@@ -1,0 +1,2 @@
+C:\Projects\Crypto\Solution\Crypto\obj\Debug\Crypto.njsprojResolveAssemblyReference.cache
+C:\Projects\Crypto\Solution\Crypto\bin\Microsoft.NodejsTools.WebRole.dll
